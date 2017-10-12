@@ -11,11 +11,13 @@ I test my code both in Windows and Linux system.
 ### Linux
 
 Compiler: clang++ v3.8.0
+
 Graphics card: Nvidia GeForce 940MX
 
 ### Windows
 
 Compiler: MSVC v140
+
 Graphics card: Nvidia GeForce 940MX
 
 ------------------------
